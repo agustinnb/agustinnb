@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **SQL, Python, PHP, JSP, HTML**
 
-- 📫 Reach me and 📄 Know about my experiences at [https://linkedin.com/in/agustinbottos](**my linkedin profile!**)
+- 📫 Reach me and 📄 Know about my experiences at <a href="https://linkedin.com/in/agustinbottos" target="blank">**my linkedin profile!**</a>
 
 - ⚡ Fun fact **I don't make a big deal of this... But I can solve the Rubik's cube.**
 
